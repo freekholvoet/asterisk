@@ -4,28 +4,6 @@
   
   
   <url>
-    <loc>https://academic-demo.netlify.app/home_notused/accomplishments/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/home_notused/skills/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/courses/example/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/courses/example/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/courses/example/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/home_notused/experience/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/home_notused/posts/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/home_notused/gallery/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/home_notused/talks/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/home_notused/featured/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/home_notused/tags/</loc></url>
-  <url>
     <loc>https://academic-demo.netlify.app/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
@@ -36,9 +14,15 @@
   <url>
     <loc>https://academic-demo.netlify.app/publication-type/5/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>https://academic-demo.netlify.app/vacancies/vacancy-1/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/vacancies/vacancy-2/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://academic-demo.netlify.app/tag/actuarial-research/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/authors/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/categories/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/tag/example-book/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
@@ -54,6 +38,10 @@
   <url>
     <loc>https://academic-demo.netlify.app/author/katrien-antonio/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>https://academic-demo.netlify.app/category/ku-leuven/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tag/leuven/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://academic-demo.netlify.app/author/michel-denuit/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/publication_types/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
@@ -62,67 +50,29 @@
   <url>
     <loc>https://academic-demo.netlify.app/tag/statistical-research/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>https://academic-demo.netlify.app/tag/statistical-team/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/category/statistical-team/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://academic-demo.netlify.app/tags/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/publication/paper3/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/courses/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/vacancies/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/courses/example/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/tag/vacancy/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/author/freek-holvoet/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/post/2020-12-01-r-rmarkdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/tag/plot/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/category/r/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/tag/r-markdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/tag/regression/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/post/writing-technical-content/</loc><lastmod>2019-07-12T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/post/jupyter/</loc><lastmod>2019-09-05T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/category/vacancy/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/tag/demo/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/people/external-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/project/external-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/people/freekholvoet2/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/people/freekholvoet/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/project/freekholvoet2/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/project/freekholvoet/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/people/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
@@ -134,10 +84,8 @@
   <url>
     <loc>https://academic-demo.netlify.app/author/donatien-hainaut/</loc></url>
   <url>
+    <loc>https://academic-demo.netlify.app/author/freek-holvoet/</loc></url>
+  <url>
     <loc>https://academic-demo.netlify.app/project/internal-project/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/home_notused/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/home_notused/hero/</loc></url>
   <url>
     <loc>https://academic-demo.netlify.app/tag/kul/</loc></url></urlset>
