@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan Dhaene | ASTeRISK</title>
+    <link>https://academic-demo.netlify.app/author/jan-dhaene/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/jan-dhaene/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan Dhaene</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/author/jan-dhaene/avatar_hub516c4655f06df7950fb292f3634a5b2_143054_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jan Dhaene</title>
+      <link>https://academic-demo.netlify.app/author/jan-dhaene/</link>
+    </image>
+    
+    <item>
+      <title>First Example Paper</title>
+      <link>https://academic-demo.netlify.app/publication/paper1/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/paper1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third Example Book</title>
+      <link>https://academic-demo.netlify.app/publication/paper3/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/paper3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
