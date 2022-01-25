@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michel Denuit | ASTeRISK</title>
+    <link>https://academic-demo.netlify.app/author/michel-denuit/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/michel-denuit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michel Denuit</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/author/michel-denuit/avatar_hub516c4655f06df7950fb292f3634a5b2_143054_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Michel Denuit</title>
+      <link>https://academic-demo.netlify.app/author/michel-denuit/</link>
+    </image>
+    
+    <item>
+      <title>A new Freek, but butter</title>
+      <link>https://academic-demo.netlify.app/vacancies/vacancy-2/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/vacancies/vacancy-2/</guid>
+      <description>&lt;h2 id=&#34;job-description&#34;&gt;Job Description&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
+ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
+sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
+egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
+dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
+Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;h2 id=&#34;wanted-qualities&#34;&gt;Wanted qualities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Working together with our current flesh and blood Freek&lt;/li&gt;
+&lt;li&gt;100 billion dollars&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contact-us&#34;&gt;Contact us!&lt;/h2&gt;
+&lt;p&gt;If you are interested please send your resume and a motivational letter to us! Use the contact page. I will try to find a way to link this here directly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Example Paper</title>
+      <link>https://academic-demo.netlify.app/publication/paper1/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/paper1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third Example Book</title>
+      <link>https://academic-demo.netlify.app/publication/paper3/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/paper3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
