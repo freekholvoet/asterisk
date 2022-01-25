@@ -5,12 +5,20 @@
     <link>https://academic-demo.netlify.app/author/jan-dhaene/</link>
       <atom:link href="https://academic-demo.netlify.app/author/jan-dhaene/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Dhaene</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/author/jan-dhaene/avatar_hub516c4655f06df7950fb292f3634a5b2_143054_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jan Dhaene</title>
       <link>https://academic-demo.netlify.app/author/jan-dhaene/</link>
     </image>
+    
+    <item>
+      <title>Freeks Big Birthday party</title>
+      <link>https://academic-demo.netlify.app/talk/freeks-big-birthday-party/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/freeks-big-birthday-party/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A new Freek, but butter</title>

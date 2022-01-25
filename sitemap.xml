@@ -4,7 +4,25 @@
   
   
   <url>
-    <loc>https://academic-demo.netlify.app/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/authors/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tag/event/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tag/freek/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/talk/freeks-big-birthday-party/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/author/jan-dhaene/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/author/katrien-antonio/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tag/ku-leuven/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/event/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/tags/</loc><lastmod>2022-04-02T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/publication-type/1/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
@@ -20,8 +38,6 @@
   <url>
     <loc>https://academic-demo.netlify.app/category/actuarial-team/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/authors/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/categories/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/tag/example-book/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
@@ -33,10 +49,6 @@
     <loc>https://academic-demo.netlify.app/author/gerda-claeskens/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/author/ingrid-van-keilegom/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/author/jan-dhaene/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/author/katrien-antonio/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/category/ku-leuven/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
@@ -53,8 +65,6 @@
     <loc>https://academic-demo.netlify.app/tag/statistical-team/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/category/statistical-team/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/tags/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/publication/paper3/</loc><lastmod>2022-01-25T00:00:00+00:00</lastmod></url>
   <url>
@@ -78,6 +88,4 @@
   <url>
     <loc>https://academic-demo.netlify.app/admin/</loc></url>
   <url>
-    <loc>https://academic-demo.netlify.app/author/freek-holvoet/</loc></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/event/</loc></url></urlset>
+    <loc>https://academic-demo.netlify.app/author/freek-holvoet/</loc></url></urlset>
