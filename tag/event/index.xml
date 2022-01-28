@@ -14,10 +14,17 @@
     
     <item>
       <title>Project and website launch</title>
-      <link>https://eos-asterisk.netlify.app/talk/project-and-website-launch/</link>
+      <link>https://eos-asterisk.netlify.app/ast_event/sitelaunch/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://eos-asterisk.netlify.app/talk/project-and-website-launch/</guid>
-      <description></description>
+      <guid>https://eos-asterisk.netlify.app/ast_event/sitelaunch/</guid>
+      <description>&lt;h2 id=&#34;time-and-location&#34;&gt;Time and location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;January 28, 2020&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eos-asterisk.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.eos-asterisk.netlify.app&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Launch of the ASTeRISK project and website&lt;/p&gt;
+</description>
     </item>
     
   </channel>

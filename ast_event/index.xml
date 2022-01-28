@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KU Leuven | ASTeRISK</title>
-    <link>https://eos-asterisk.netlify.app/tag/ku-leuven/</link>
-      <atom:link href="https://eos-asterisk.netlify.app/tag/ku-leuven/index.xml" rel="self" type="application/rss+xml" />
-    <description>KU Leuven</description>
+    <title>Upcoming Events | ASTeRISK</title>
+    <link>https://eos-asterisk.netlify.app/ast_event/</link>
+      <atom:link href="https://eos-asterisk.netlify.app/ast_event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Upcoming Events</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eos-asterisk.netlify.app/media/icon_hu31e1642898cd664f469967b29f567aa2_42147_512x512_fill_lanczos_center_3.png</url>
-      <title>KU Leuven</title>
-      <link>https://eos-asterisk.netlify.app/tag/ku-leuven/</link>
+      <title>Upcoming Events</title>
+      <link>https://eos-asterisk.netlify.app/ast_event/</link>
     </image>
     
     <item>
