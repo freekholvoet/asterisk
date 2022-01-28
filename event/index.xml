@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Upcoming Events | ASTeRISK</title>
-    <link>https://academic-demo.netlify.app/event/</link>
-      <atom:link href="https://academic-demo.netlify.app/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eos-asterisk.be/event/</link>
+      <atom:link href="https://eos-asterisk.be/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Upcoming Events</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://eos-asterisk.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Upcoming Events</title>
-      <link>https://academic-demo.netlify.app/event/</link>
+      <link>https://eos-asterisk.be/event/</link>
     </image>
     
     <item>
       <title>Project and website launch</title>
-      <link>https://academic-demo.netlify.app/talk/project-and-website-launch/</link>
+      <link>https://eos-asterisk.be/talk/project-and-website-launch/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/project-and-website-launch/</guid>
+      <guid>https://eos-asterisk.be/talk/project-and-website-launch/</guid>
       <description></description>
     </item>
     

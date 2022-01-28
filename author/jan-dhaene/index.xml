@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jan Dhaene | ASTeRISK</title>
-    <link>https://academic-demo.netlify.app/author/jan-dhaene/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/jan-dhaene/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eos-asterisk.be/author/jan-dhaene/</link>
+      <atom:link href="https://eos-asterisk.be/author/jan-dhaene/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Dhaene</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://academic-demo.netlify.app/author/jan-dhaene/avatar_hu9035d17dd4b48e23b899ee63616f0549_9377_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://eos-asterisk.be/author/jan-dhaene/avatar_hu9035d17dd4b48e23b899ee63616f0549_9377_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jan Dhaene</title>
-      <link>https://academic-demo.netlify.app/author/jan-dhaene/</link>
+      <link>https://eos-asterisk.be/author/jan-dhaene/</link>
     </image>
     
   </channel>

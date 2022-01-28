@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michel Denuit | ASTeRISK</title>
-    <link>https://academic-demo.netlify.app/author/michel-denuit/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/michel-denuit/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eos-asterisk.be/author/michel-denuit/</link>
+      <atom:link href="https://eos-asterisk.be/author/michel-denuit/index.xml" rel="self" type="application/rss+xml" />
     <description>Michel Denuit</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://academic-demo.netlify.app/author/michel-denuit/avatar_hu22f1ee8579d1d864b919e9f078ff7447_3695_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://eos-asterisk.be/author/michel-denuit/avatar_hu22f1ee8579d1d864b919e9f078ff7447_3695_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Michel Denuit</title>
-      <link>https://academic-demo.netlify.app/author/michel-denuit/</link>
+      <link>https://eos-asterisk.be/author/michel-denuit/</link>
     </image>
     
   </channel>

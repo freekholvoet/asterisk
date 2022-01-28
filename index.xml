@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ASTeRISK</title>
-    <link>https://academic-demo.netlify.app/</link>
-      <atom:link href="https://academic-demo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eos-asterisk.be/</link>
+      <atom:link href="https://eos-asterisk.be/index.xml" rel="self" type="application/rss+xml" />
     <description>ASTeRISK</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://eos-asterisk.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>ASTeRISK</title>
-      <link>https://academic-demo.netlify.app/</link>
+      <link>https://eos-asterisk.be/</link>
     </image>
     
     <item>
       <title>PhD Researchers</title>
-      <link>https://academic-demo.netlify.app/vacancies/phd_call/</link>
+      <link>https://eos-asterisk.be/vacancies/phd_call/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/vacancies/phd_call/</guid>
+      <guid>https://eos-asterisk.be/vacancies/phd_call/</guid>
       <description>&lt;h2 id=&#34;the-asterisk-team-welcomes-applications-for-phd-positions-within-each-of-the-projects-research-lines&#34;&gt;The ASTeRISK team welcomes applications for PhD positions within each of the project’s research lines.&lt;/h2&gt;
 &lt;p&gt;Candidates should hold an MSc degree in e.g. statistics, mathematics, computer science, actuarial sciences, data science or similar. The PhD student will join a vibrant community of young researchers, supervised by a team of senior researchers at the forefront of the international research landscape in both actuarial, statistics and biostatistics research.&lt;/p&gt;
 &lt;p&gt;Positions will either be based at the &lt;a href=&#34;https://feb.kuleuven.be&#34;&gt;Faculty of Economics and Business at KU Leuven&lt;/a&gt;, &lt;a href=&#34;https://uclouvain.be/en/research-institutes/lidam/isba&#34;&gt;the Institute of Statistics, Biostatistics and Actuarial Sciences at UCLouvain&lt;/a&gt;, or both (leading to a joint PhD degree from both institutes).&lt;/p&gt;
@@ -29,10 +29,10 @@ Donatien Hainaut: &lt;a href=&#34;mailto:donatien.hainaut@uclouvain.be&#34;&gt;d
     
     <item>
       <title>Postdoctoral Researchers</title>
-      <link>https://academic-demo.netlify.app/vacancies/postdoc_call/</link>
+      <link>https://eos-asterisk.be/vacancies/postdoc_call/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/vacancies/postdoc_call/</guid>
-      <description>&lt;h2 id=&#34;the-asterisk-team-welcomes-applications-for-2-year-full-time-postdoctoral-positions-within-each-of-the-projects-research-lines&#34;&gt;The ASTeRISK team welcomes applications for 2-year full time postdoctoral positions within each of the project’s research lines.&lt;/h2&gt;
+      <guid>https://eos-asterisk.be/vacancies/postdoc_call/</guid>
+      <description>&lt;h2 id=&#34;the-asterisk-team-welcomes-applications-for-2-year-full-time-postdoctoral-positions-within-each-of-the-projects-research-lines-s&#34;&gt;The ASTeRISK team welcomes applications for 2-year full time postdoctoral positions within each of the project’s research lines. s&lt;/h2&gt;
 &lt;p&gt;We are particularly looking for expertise related (but not limited) to: joint models, survival models, risk measures, peer-to-peer insurance.&lt;/p&gt;
 &lt;p&gt;The postdoc will take an active role in the development of the ASTeRISK research lines and the management of the project, as a linking pin between the young researchers and the team of coPIs.&lt;/p&gt;
 &lt;p&gt;Positions will either be based at the &lt;a href=&#34;https://feb.kuleuven.be&#34;&gt;Faculty of Economics and Business at KU Leuven&lt;/a&gt;, &lt;a href=&#34;https://uclouvain.be/en/research-institutes/lidam/isba&#34;&gt;the Institute of Statistics, Biostatistics and Actuarial Sciences at UCLouvain&lt;/a&gt;, or both (leading to a joint PhD degree from both institutes).&lt;/p&gt;
@@ -45,33 +45,33 @@ Donatien Hainaut: &lt;a href=&#34;mailto:donatien.hainaut@uclouvain.be&#34;&gt;d
     
     <item>
       <title>Project and website launch</title>
-      <link>https://academic-demo.netlify.app/talk/project-and-website-launch/</link>
+      <link>https://eos-asterisk.be/talk/project-and-website-launch/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/project-and-website-launch/</guid>
+      <guid>https://eos-asterisk.be/talk/project-and-website-launch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A hierarchical reserving model for reported non-life insurance claims</title>
-      <link>https://academic-demo.netlify.app/publication/paper1/</link>
+      <link>https://eos-asterisk.be/publication/paper1/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/paper1/</guid>
+      <guid>https://eos-asterisk.be/publication/paper1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://academic-demo.netlify.app/privacy/</link>
+      <link>https://eos-asterisk.be/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://academic-demo.netlify.app/privacy/</guid>
+      <guid>https://eos-asterisk.be/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://academic-demo.netlify.app/admin/config.yml</link>
+      <link>https://eos-asterisk.be/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/admin/config.yml</guid>
+      <guid>https://eos-asterisk.be/admin/config.yml</guid>
       <description></description>
     </item>
     
