@@ -5,28 +5,12 @@
     <link>https://academic-demo.netlify.app/author/ingrid-van-keilegom/</link>
       <atom:link href="https://academic-demo.netlify.app/author/ingrid-van-keilegom/index.xml" rel="self" type="application/rss+xml" />
     <description>Ingrid Van Keilegom</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://academic-demo.netlify.app/author/ingrid-van-keilegom/avatar_hu70227b27de37aa794cf16a9b96d38843_16606_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Ingrid Van Keilegom</title>
       <link>https://academic-demo.netlify.app/author/ingrid-van-keilegom/</link>
     </image>
-    
-    <item>
-      <title>Third Example Book</title>
-      <link>https://academic-demo.netlify.app/publication/paper3/</link>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/paper3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Second Example Paper</title>
-      <link>https://academic-demo.netlify.app/publication/paper2/</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/paper2/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

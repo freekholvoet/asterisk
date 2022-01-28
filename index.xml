@@ -5,7 +5,7 @@
     <link>https://academic-demo.netlify.app/</link>
       <atom:link href="https://academic-demo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>ASTeRISK</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>ASTeRISK</title>
@@ -13,92 +13,49 @@
     </image>
     
     <item>
-      <title>Eva and Freeks Birthday party</title>
-      <link>https://academic-demo.netlify.app/talk/eva-and-freeks-birthday-party/</link>
-      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/eva-and-freeks-birthday-party/</guid>
+      <title>PhD Researchers</title>
+      <link>https://academic-demo.netlify.app/vacancies/phd_call/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/vacancies/phd_call/</guid>
+      <description>&lt;h2 id=&#34;the-asterisk-team-welcomes-applications-for-phd-positions-within-each-of-the-projects-research-lines&#34;&gt;The ASTeRISK team welcomes applications for PhD positions within each of the project’s research lines.&lt;/h2&gt;
+&lt;p&gt;Candidates should hold an MSc degree in e.g. statistics, mathematics, computer science, actuarial sciences, data science or similar. The PhD student will join a vibrant community of young researchers, supervised by a team of senior researchers at the forefront of the international research landscape in both actuarial, statistics and biostatistics research.&lt;/p&gt;
+&lt;p&gt;Positions will either be based at the &lt;a href=&#34;https://feb.kuleuven.be&#34;&gt;Faculty of Economics and Business at KU Leuven&lt;/a&gt;, &lt;a href=&#34;https://uclouvain.be/en/research-institutes/lidam/isba&#34;&gt;the Institute of Statistics, Biostatistics and Actuarial Sciences at UCLouvain&lt;/a&gt;, or both (leading to a joint PhD degree from both institutes).&lt;/p&gt;
+&lt;h2 id=&#34;interested-in-joining-us&#34;&gt;Interested in joining us?&lt;/h2&gt;
+&lt;p&gt;Send your CV and cover letter to Katrien Antonio and Donatien Hainaut.&lt;/p&gt;
+&lt;p&gt;Katrien Antonio: &lt;a href=&#34;mailto:katrien.antonio@kuleuven.be&#34;&gt;katrien.antonio@kuleuven.be&lt;/a&gt; &lt;/br&gt;
+Donatien Hainaut: &lt;a href=&#34;mailto:donatien.hainaut@uclouvain.be&#34;&gt;donatien.hainaut@uclouvain.be&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral Researchers</title>
+      <link>https://academic-demo.netlify.app/vacancies/postdoc_call/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/vacancies/postdoc_call/</guid>
+      <description>&lt;h2 id=&#34;the-asterisk-team-welcomes-applications-for-2-year-full-time-postdoctoral-positions-within-each-of-the-projects-research-lines&#34;&gt;The ASTeRISK team welcomes applications for 2-year full time postdoctoral positions within each of the project’s research lines.&lt;/h2&gt;
+&lt;p&gt;We are particularly looking for expertise related (but not limited) to: joint models, survival models, risk measures, peer-to-peer insurance.&lt;/p&gt;
+&lt;p&gt;The postdoc will take an active role in the development of the ASTeRISK research lines and the management of the project, as a linking pin between the young researchers and the team of coPIs.&lt;/p&gt;
+&lt;p&gt;Positions will either be based at the &lt;a href=&#34;https://feb.kuleuven.be&#34;&gt;Faculty of Economics and Business at KU Leuven&lt;/a&gt;, &lt;a href=&#34;https://uclouvain.be/en/research-institutes/lidam/isba&#34;&gt;the Institute of Statistics, Biostatistics and Actuarial Sciences at UCLouvain&lt;/a&gt;, or both (leading to a joint PhD degree from both institutes).&lt;/p&gt;
+&lt;h2 id=&#34;interested-in-joining-us&#34;&gt;Interested in joining us?&lt;/h2&gt;
+&lt;p&gt;Send your CV and cover letter to Katrien Antonio and Donatien Hainaut.&lt;/p&gt;
+&lt;p&gt;Katrien Antonio: &lt;a href=&#34;mailto:katrien.antonio@kuleuven.be&#34;&gt;katrien.antonio@kuleuven.be&lt;/a&gt; &lt;/br&gt;
+Donatien Hainaut: &lt;a href=&#34;mailto:donatien.hainaut@uclouvain.be&#34;&gt;donatien.hainaut@uclouvain.be&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project and website launch</title>
+      <link>https://academic-demo.netlify.app/talk/project-and-website-launch/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/talk/project-and-website-launch/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A new Freek, but better</title>
-      <link>https://academic-demo.netlify.app/vacancies/vacancy-1/</link>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/vacancies/vacancy-1/</guid>
-      <description>&lt;h2 id=&#34;job-description&#34;&gt;Job Description&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;h2 id=&#34;wanted-qualities&#34;&gt;Wanted qualities&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Working together with our current Freek&lt;/li&gt;
-&lt;li&gt;100 billion dollars&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;contact-us&#34;&gt;Contact us!&lt;/h2&gt;
-&lt;p&gt;If you are interested please send your resume and a motivational letter to us! Use the contact page. I will try to find a way to link this here directly.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A new Freek, but butter</title>
-      <link>https://academic-demo.netlify.app/vacancies/vacancy-2/</link>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/vacancies/vacancy-2/</guid>
-      <description>&lt;h2 id=&#34;job-description&#34;&gt;Job Description&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;h2 id=&#34;wanted-qualities&#34;&gt;Wanted qualities&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;we-offer&#34;&gt;We offer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Working together with our current flesh and blood Freek&lt;/li&gt;
-&lt;li&gt;100 billion dollars&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;contact-us&#34;&gt;Contact us!&lt;/h2&gt;
-&lt;p&gt;If you are interested please send your resume and a motivational letter to us! Use the contact page. I will try to find a way to link this here directly.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>First Example Paper</title>
+      <title>A hierarchical reserving model for reported non-life insurance claims</title>
       <link>https://academic-demo.netlify.app/publication/paper1/</link>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/paper1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Third Example Book</title>
-      <link>https://academic-demo.netlify.app/publication/paper3/</link>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/paper3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Second Example Paper</title>
-      <link>https://academic-demo.netlify.app/publication/paper2/</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/paper2/</guid>
       <description></description>
     </item>
     

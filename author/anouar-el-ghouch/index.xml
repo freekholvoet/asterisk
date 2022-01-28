@@ -5,20 +5,12 @@
     <link>https://academic-demo.netlify.app/author/anouar-el-ghouch/</link>
       <atom:link href="https://academic-demo.netlify.app/author/anouar-el-ghouch/index.xml" rel="self" type="application/rss+xml" />
     <description>Anouar El Ghouch</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://academic-demo.netlify.app/author/anouar-el-ghouch/avatar_hu18fa07c3885fb931bfb3312bc2fe6f28_46921_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Anouar El Ghouch</title>
       <link>https://academic-demo.netlify.app/author/anouar-el-ghouch/</link>
     </image>
-    
-    <item>
-      <title>Second Example Paper</title>
-      <link>https://academic-demo.netlify.app/publication/paper2/</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/paper2/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
