@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://eos-asterisk.be/sitemap.xml
+Sitemap: https://eos-asterisk.netlify.app/sitemap.xml

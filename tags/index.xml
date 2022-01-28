@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | ASTeRISK</title>
-    <link>https://eos-asterisk.be/tags/</link>
-      <atom:link href="https://eos-asterisk.be/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eos-asterisk.netlify.app/tags/</link>
+      <atom:link href="https://eos-asterisk.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://eos-asterisk.be/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://eos-asterisk.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>https://eos-asterisk.be/tags/</link>
+      <link>https://eos-asterisk.netlify.app/tags/</link>
     </image>
     
   </channel>
