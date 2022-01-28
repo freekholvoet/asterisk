@@ -17,14 +17,15 @@
       <link>https://eos-asterisk.netlify.app/vacancies/phd_call/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://eos-asterisk.netlify.app/vacancies/phd_call/</guid>
-      <description>&lt;h2 id=&#34;the-asterisk-team-welcomes-applications-for-phd-positions-within-each-of-the-projects-research-lines&#34;&gt;The ASTeRISK team welcomes applications for PhD positions within each of the project’s research lines.&lt;/h2&gt;
+      <description>&lt;div id=&#34;just&#34;&gt;
+&lt;h2 id=&#34;the-asterisk-team-welcomes-applications-for-phd-positions-within-each-of-the-projects-research-lines&#34;&gt;The ASTeRISK team welcomes applications for PhD positions within each of the project’s research lines.&lt;/h2&gt;
 &lt;p&gt;Candidates should hold an MSc degree in e.g. statistics, mathematics, computer science, actuarial sciences, data science or similar. The PhD student will join a vibrant community of young researchers, supervised by a team of senior researchers at the forefront of the international research landscape in both actuarial, statistics and biostatistics research.&lt;/p&gt;
 &lt;p&gt;Positions will either be based at the &lt;a href=&#34;https://feb.kuleuven.be&#34;&gt;Faculty of Economics and Business at KU Leuven&lt;/a&gt;, &lt;a href=&#34;https://uclouvain.be/en/research-institutes/lidam/isba&#34;&gt;the Institute of Statistics, Biostatistics and Actuarial Sciences at UCLouvain&lt;/a&gt;, or both (leading to a joint PhD degree from both institutes).&lt;/p&gt;
 &lt;h2 id=&#34;interested-in-joining-us&#34;&gt;Interested in joining us?&lt;/h2&gt;
 &lt;p&gt;Send your CV and cover letter to Katrien Antonio and Donatien Hainaut.&lt;/p&gt;
 &lt;p&gt;Katrien Antonio: &lt;a href=&#34;mailto:katrien.antonio@kuleuven.be&#34;&gt;katrien.antonio@kuleuven.be&lt;/a&gt; &lt;/br&gt;
 Donatien Hainaut: &lt;a href=&#34;mailto:donatien.hainaut@uclouvain.be&#34;&gt;donatien.hainaut@uclouvain.be&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -32,7 +33,8 @@ Donatien Hainaut: &lt;a href=&#34;mailto:donatien.hainaut@uclouvain.be&#34;&gt;d
       <link>https://eos-asterisk.netlify.app/vacancies/postdoc_call/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://eos-asterisk.netlify.app/vacancies/postdoc_call/</guid>
-      <description>&lt;h2 id=&#34;the-asterisk-team-welcomes-applications-for-2-year-full-time-postdoctoral-positions-within-each-of-the-projects-research-lines-s&#34;&gt;The ASTeRISK team welcomes applications for 2-year full time postdoctoral positions within each of the project’s research lines. s&lt;/h2&gt;
+      <description>&lt;div id=&#34;just&#34;&gt;
+&lt;h2 id=&#34;the-asterisk-team-welcomes-applications-for-2-year-full-time-postdoctoral-positions-within-each-of-the-projects-research-lines-s&#34;&gt;The ASTeRISK team welcomes applications for 2-year full time postdoctoral positions within each of the project’s research lines. s&lt;/h2&gt;
 &lt;p&gt;We are particularly looking for expertise related (but not limited) to: joint models, survival models, risk measures, peer-to-peer insurance.&lt;/p&gt;
 &lt;p&gt;The postdoc will take an active role in the development of the ASTeRISK research lines and the management of the project, as a linking pin between the young researchers and the team of coPIs.&lt;/p&gt;
 &lt;p&gt;Positions will either be based at the &lt;a href=&#34;https://feb.kuleuven.be&#34;&gt;Faculty of Economics and Business at KU Leuven&lt;/a&gt;, &lt;a href=&#34;https://uclouvain.be/en/research-institutes/lidam/isba&#34;&gt;the Institute of Statistics, Biostatistics and Actuarial Sciences at UCLouvain&lt;/a&gt;, or both (leading to a joint PhD degree from both institutes).&lt;/p&gt;
@@ -40,7 +42,7 @@ Donatien Hainaut: &lt;a href=&#34;mailto:donatien.hainaut@uclouvain.be&#34;&gt;d
 &lt;p&gt;Send your CV and cover letter to Katrien Antonio and Donatien Hainaut.&lt;/p&gt;
 &lt;p&gt;Katrien Antonio: &lt;a href=&#34;mailto:katrien.antonio@kuleuven.be&#34;&gt;katrien.antonio@kuleuven.be&lt;/a&gt; &lt;/br&gt;
 Donatien Hainaut: &lt;a href=&#34;mailto:donatien.hainaut@uclouvain.be&#34;&gt;donatien.hainaut@uclouvain.be&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -56,7 +58,10 @@ Donatien Hainaut: &lt;a href=&#34;mailto:donatien.hainaut@uclouvain.be&#34;&gt;d
       <link>https://eos-asterisk.netlify.app/publication/paper1/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://eos-asterisk.netlify.app/publication/paper1/</guid>
-      <description></description>
+      <description>&lt;div id=&#34;just&#34;&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Traditional non-life reserving models largely neglect the vast amount of information collected over the lifetime of a claim. This information includes covariates describing the policy, claim cause as well as the detailed history collected during a claim&amp;rsquo;s development over time. We present the hierarchical reserving model as a modular framework for integrating a claim&amp;rsquo;s history and claim-specific covariates into the development process. Hierarchical reserving models decompose the joint likelihood of the development process over time. Moreover, they are tailored to the portfolio at hand by adding a layer to the model for each of the events registered during the development of a claim (e.g. settlement, payment). Layers are modelled with statistical learning (e.g. generalized linear models) or machine learning methods (e.g. gradient boosting machines) and use claim-specific covariates. As a result of its flexibility, this framework incorporates many existing reserving models, ranging from aggregate models designed for run-off triangles to individual models using claim-specific covariates. This connection allows us to develop a data-driven strategy for choosing between aggregate and individual reserving; an important decision for reserving practitioners. We illustrate our method with a case study on a real insurance data set and deduce new insights in the covariates driving the development of claims. Moreover, we evaluate the method&amp;rsquo;s performance on a large number of simulated portfolios representing several realistic development scenarios and demonstrate the flexibility and robustness of the hierarchical reserving model.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     
   </channel>
