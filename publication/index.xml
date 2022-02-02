@@ -5,12 +5,23 @@
     <link>https://eos-asterisk.netlify.app/publication/</link>
       <atom:link href="https://eos-asterisk.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eos-asterisk.netlify.app/media/icon_hu31e1642898cd664f469967b29f567aa2_42147_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://eos-asterisk.netlify.app/publication/</link>
     </image>
+    
+    <item>
+      <title>Risk-sharing rules and their properties, with applications to peer-to-peer insurance</title>
+      <link>https://eos-asterisk.netlify.app/publication/dhaene_2021/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://eos-asterisk.netlify.app/publication/dhaene_2021/</guid>
+      <description>&lt;div id=&#34;just&#34;&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;This paper offers a systematic treatment of risk-sharing rules for insurance losses, based on a list of relevant properties. A number of candidate risk-sharing rules are considered, including the conditional mean risk-sharing rule proposed in Denuit and Dhaene (2012) and the newly introduced quantile risk-sharing rule. Their compliance with the proposed properties is established. Then, methods for building new risk-sharing rules are discussed. The results derived in this paper are shown to be helpful in the development of peer-to-peer insurance (or crowdsurance), as well as to manage contingent risk funds where a given budget is distributed among claimants&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>A hierarchical reserving model for reported non-life insurance claims</title>
