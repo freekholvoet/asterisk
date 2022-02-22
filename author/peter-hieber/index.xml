@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Christian Y. Robert | ASTeRISK</title>
-    <link>https://eos-asterisk.netlify.app/author/christian-y.-robert/</link>
-      <atom:link href="https://eos-asterisk.netlify.app/author/christian-y.-robert/index.xml" rel="self" type="application/rss+xml" />
-    <description>Christian Y. Robert</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <title>Peter Hieber | ASTeRISK</title>
+    <link>https://eos-asterisk.netlify.app/author/peter-hieber/</link>
+      <atom:link href="https://eos-asterisk.netlify.app/author/peter-hieber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Hieber</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eos-asterisk.netlify.app/media/icon_hu31e1642898cd664f469967b29f567aa2_42147_512x512_fill_lanczos_center_3.png</url>
-      <title>Christian Y. Robert</title>
-      <link>https://eos-asterisk.netlify.app/author/christian-y.-robert/</link>
+      <title>Peter Hieber</title>
+      <link>https://eos-asterisk.netlify.app/author/peter-hieber/</link>
     </image>
-    
-    <item>
-      <title>Risk-sharing rules and their properties, with applications to peer-to-peer insurance</title>
-      <link>https://eos-asterisk.netlify.app/publication/dhaene_2021/</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://eos-asterisk.netlify.app/publication/dhaene_2021/</guid>
-      <description>&lt;div id=&#34;just&#34;&gt;
-&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-&lt;p&gt;This paper offers a systematic treatment of risk-sharing rules for insurance losses, based on a list of relevant properties. A number of candidate risk-sharing rules are considered, including the conditional mean risk-sharing rule proposed in Denuit and Dhaene (2012) and the newly introduced quantile risk-sharing rule. Their compliance with the proposed properties is established. Then, methods for building new risk-sharing rules are discussed. The results derived in this paper are shown to be helpful in the development of peer-to-peer insurance (or crowdsurance), as well as to manage contingent risk funds where a given budget is distributed among claimants&lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
     
     <item>
       <title>Mortality credits within large survivor funds</title>
