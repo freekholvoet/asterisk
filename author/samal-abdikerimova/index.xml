@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Upcoming Events | ASTeRISK</title>
-    <link>https://eos-asterisk.netlify.app/ast_event/</link>
-      <atom:link href="https://eos-asterisk.netlify.app/ast_event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Upcoming Events</description>
+    <title>Samal Abdikerimova | ASTeRISK</title>
+    <link>https://eos-asterisk.netlify.app/author/samal-abdikerimova/</link>
+      <atom:link href="https://eos-asterisk.netlify.app/author/samal-abdikerimova/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samal Abdikerimova</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eos-asterisk.netlify.app/media/icon_hu31e1642898cd664f469967b29f567aa2_42147_512x512_fill_lanczos_center_3.png</url>
-      <title>Upcoming Events</title>
-      <link>https://eos-asterisk.netlify.app/ast_event/</link>
+      <title>Samal Abdikerimova</title>
+      <link>https://eos-asterisk.netlify.app/author/samal-abdikerimova/</link>
     </image>
     
     <item>
@@ -26,21 +26,6 @@
 &lt;p&gt;Peer-to-peer (P2P) insurance is a decentralized network in which participants pool their resources together to 
 compensate those who suffer losses. The rise of P2P insurance in Western countries, such as Friendsurance and Lemonade, has been viewed a disruptor to the traditional insurance industry in the same way Uber is to the taxi industry. A similar business model of mutual aid, such as Xiang Hu Bao, has become popular in the East, which provides financial support to those in needs and spreads the cost among all participants.&lt;/p&gt;
 &lt;p&gt;Despite the fast-changing landscape in this field, there has been scarce literature on the theoretical underpinning of P2P insurance and mutual aid. This paper presents the first effort to build a unified framework to quantify and assess the exchange of risks in a network of participants from different risk classes. Under this framework, the paper aims to address several essential research questions including the fair exchange of heterogeneous risks and the optimality of algorithmic designs under various criteria. The modeling of multi-risk exchange is done with a P2P network structures. We show that not only these network structures can be used to explain the current practice in the industry but also provide new tools to develop better designs. The paper concludes with a comparison of traditional insurance and P2P risk sharing from the standpoint of stability and cost reduction.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Project and website launch</title>
-      <link>https://eos-asterisk.netlify.app/ast_event/sitelaunch/</link>
-      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://eos-asterisk.netlify.app/ast_event/sitelaunch/</guid>
-      <description>&lt;h2 id=&#34;time-and-location&#34;&gt;Time and location&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;January 28, 2020&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.eos-asterisk.be&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.eos-asterisk.be&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Launch of the ASTeRISK project and website&lt;/p&gt;
 </description>
     </item>
     
