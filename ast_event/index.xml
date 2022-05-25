@@ -5,12 +5,27 @@
     <link>https://eos-asterisk.netlify.app/ast_event/</link>
       <atom:link href="https://eos-asterisk.netlify.app/ast_event/index.xml" rel="self" type="application/rss+xml" />
     <description>Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eos-asterisk.netlify.app/media/icon_hu31e1642898cd664f469967b29f567aa2_42147_512x512_fill_lanczos_center_3.png</url>
       <title>Upcoming Events</title>
       <link>https://eos-asterisk.netlify.app/ast_event/</link>
     </image>
+    
+    <item>
+      <title>Cyber Risk Assessment for Capital Management</title>
+      <link>https://eos-asterisk.netlify.app/ast_event/seminar_2/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://eos-asterisk.netlify.app/ast_event/seminar_2/</guid>
+      <description>&lt;h2 id=&#34;time-and-location&#34;&gt;Time and location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;June 2, 2022, 11h&lt;/li&gt;
+&lt;li&gt;KU Leuven, FEB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Cyber risk is an omnipresent risk in the increasingly digitized world that is known to be difficult to quantify and assess. Despite the fact that cyber risk shows distinct characteristics from conventional risks, most existing models for cyber risk in the insurance literature have been purely based on frequency-severity analysis, which was developed for classical property and casualty risks. In contrast, the cybersecurity engineering literature employs different approaches, under which cyber incidents are viewed as threats or hacker attacks acting on a particular set of vulnerabilities. There appears a gap in cyber risk modeling between engineering and insurance literature. This paper presents a novel model to capture this unique dynamics of cyber risk known from engineering and to model loss distributions based on industry loss data and a particular company&amp;rsquo;s cybersecurity profile. The analysis leads to a new tool for allocating resources of the company between cybersecurity investments and loss-absorbing reserves.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Peer-to-peer Multi-Risk Insurance and Mutual Aid</title>
