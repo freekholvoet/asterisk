@@ -5,12 +5,27 @@
     <link>https://eos-asterisk.netlify.app/ast_event/</link>
       <atom:link href="https://eos-asterisk.netlify.app/ast_event/index.xml" rel="self" type="application/rss+xml" />
     <description>Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eos-asterisk.netlify.app/media/icon_hu31e1642898cd664f469967b29f567aa2_42147_512x512_fill_lanczos_center_3.png</url>
       <title>Upcoming Events</title>
       <link>https://eos-asterisk.netlify.app/ast_event/</link>
     </image>
+    
+    <item>
+      <title>Old Tontines &amp; Modern Problems</title>
+      <link>https://eos-asterisk.netlify.app/ast_event/seminar_3/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://eos-asterisk.netlify.app/ast_event/seminar_3/</guid>
+      <description>&lt;h2 id=&#34;time-and-location&#34;&gt;Time and location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;November 18, 2022, 12h&lt;/li&gt;
+&lt;li&gt;KU Leuven, FEB, HOGM 01.74&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;From the mid-18th to the late 19th century, tontine schemes were one of the most popular investment products and methods of raising economic capital for long-term projects. But by the early 20th century they had fallen into disrepute, outlawed in many legal jurisdictions and forgotten other than in crime novels and works of fiction. Recently though, academics and scholars have developed a renewed interest in tontine-related longevity pooling schemes with over 100 scientific articles (and counting) published on the topic in the early decades of the 21st century. Then, in the fall of 2022 a Canadian investment company was granted authorisation by regulators to launch a modern version of the tontine, partially encouraged by the above noted scientific research. Motivated by all this activity the 75-minute presentation will review some of the colourful history and literature (1/3), explain the actuarial and financial characteristics of the “modern” structure (1/3) and then focus on some “open” mathematical problems stimulated by recent tontine design.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cyber Risk Assessment for Capital Management</title>
