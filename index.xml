@@ -5,7 +5,7 @@
     <link>https://eos-asterisk.netlify.app/</link>
       <atom:link href="https://eos-asterisk.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>ASTeRISK</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eos-asterisk.netlify.app/media/icon_hu31e1642898cd664f469967b29f567aa2_42147_512x512_fill_lanczos_center_3.png</url>
       <title>ASTeRISK</title>
@@ -13,9 +13,24 @@
     </image>
     
     <item>
+      <title>Generating function method for the efficient computation of expected allocations</title>
+      <link>https://eos-asterisk.netlify.app/ast_event/seminar_4/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://eos-asterisk.netlify.app/ast_event/seminar_4/</guid>
+      <description>&lt;h2 id=&#34;time-and-location&#34;&gt;Time and location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;December 14, 2022, 12h&lt;/li&gt;
+&lt;li&gt;KU Leuven, FEB, HOGS 01.10&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Consider a risk portfolio with aggregate loss random variable S=X1+⋯+Xn defined as the sum of the n individual losses X1,…,Xn. The expected allocation, E[Xi×1{S=k}], for i=1,…,n and k∈N, is a vital quantity for risk allocation and risk-sharing. For example, one uses this value to compute peer-to-peer contributions under the conditional mean risk-sharing rule and capital allocated to a line of business under the Euler risk allocation paradigm. This paper introduces an ordinary generating function for expected allocations, a power series representation of the expected allocation of an individual risk given the total risks in the portfolio when all risks are discrete. First, we provide a simple relationship between the ordinary generating function for expected allocations and the probability generating function. Then, leveraging properties of ordinary generating functions, we reveal new theoretical results on closed-formed solutions to risk allocation problems, especially when dealing with Katz or compound Katz distributions. Then, we present an efficient algorithm to recover the expected allocations using the fast Fourier transform, providing a new practical tool to compute expected allocations quickly. The latter approach is exceptionally efficient for a portfolio of independent risks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Old Tontines &amp; Modern Problems</title>
       <link>https://eos-asterisk.netlify.app/ast_event/seminar_3/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://eos-asterisk.netlify.app/ast_event/seminar_3/</guid>
       <description>&lt;h2 id=&#34;time-and-location&#34;&gt;Time and location&lt;/h2&gt;
 &lt;ul&gt;
