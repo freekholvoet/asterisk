@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Actuary Magazine | ASTeRISK</title>
+    <link>https://eos-asterisk.netlify.app/author/the-actuary-magazine/</link>
+      <atom:link href="https://eos-asterisk.netlify.app/author/the-actuary-magazine/index.xml" rel="self" type="application/rss+xml" />
+    <description>The Actuary Magazine</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eos-asterisk.netlify.app/media/icon_hu31e1642898cd664f469967b29f567aa2_42147_512x512_fill_lanczos_center_3.png</url>
+      <title>The Actuary Magazine</title>
+      <link>https://eos-asterisk.netlify.app/author/the-actuary-magazine/</link>
+    </image>
+    
+    <item>
+      <title>Prize-Winning Paper Tackles Machine Learning Actuarial Models</title>
+      <link>https://eos-asterisk.netlify.app/ast_event/article_1/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://eos-asterisk.netlify.app/ast_event/article_1/</guid>
+      <description>&lt;p&gt;Article in The Actuary Magazine on the award winning paper “Boosting Insights in Insurance Tariff Plans with Tree-Based Machine Learning Methods,” authored by Roel Henckaerts, Marie-Pier Côté, Katrien Antonio and Roel Verbelen. This paper is related to the first and second research line of the ASTeRISK project.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Published April, 2023&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theactuarymagazine.org/prize-winning-paper-tackles-machine-learning-actuarial-models/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theactuarymagazine.org/prize-winning-paper-tackles-machine-learning-actuarial-models/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;abstract-from-the-article&#34;&gt;Abstract from the article:&lt;/h2&gt;
+&lt;p&gt;The benefits of machine learning (ML) are widespread. It can help organizations get the most out of raw data, and its applications hold the promise of improving lives. The actuarial profession shares in the potential power of ML, but new technologies can be disruptive. ML actuarial models, for example, can be so complex they lack transparency, threatening to weaken consumers’ trust and raise regulators’ suspicions.&lt;/p&gt;
+&lt;p&gt;The timely topic of actuarial ML was the focus of a North American Actuarial Journal (NAAJ) article that was chosen as the best in 2021. This prize-winning paper looks inside ML pricing models to understand how they work and explore real-world applications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

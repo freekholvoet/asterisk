@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FADeRiS | ASTeRISK</title>
+    <link>https://eos-asterisk.netlify.app/author/faderis/</link>
+      <atom:link href="https://eos-asterisk.netlify.app/author/faderis/index.xml" rel="self" type="application/rss+xml" />
+    <description>FADeRiS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eos-asterisk.netlify.app/media/icon_hu31e1642898cd664f469967b29f567aa2_42147_512x512_fill_lanczos_center_3.png</url>
+      <title>FADeRiS</title>
+      <link>https://eos-asterisk.netlify.app/author/faderis/</link>
+    </image>
+    
+    <item>
+      <title>Foundations and applications of decentralized risk sharing</title>
+      <link>https://eos-asterisk.netlify.app/ast_event/workshop_1/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://eos-asterisk.netlify.app/ast_event/workshop_1/</guid>
+      <description>&lt;h2 id=&#34;time-and-location&#34;&gt;Time and location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;May 18-19, 2023&lt;/li&gt;
+&lt;li&gt;KU Leuven&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More information: &lt;a href=&#34;https://sites.google.com/view/faderis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sites.google.com/view/faderis&lt;/a&gt;.
+This initiative is sponsered by the ASTeRISK project. The workshop relates to the third research line of the ASTeRISK project.&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Risk-sharing mechanisms have been studied for decades in the actuarial literature, starting with the pioneering work of Karl Borch who investigated equilibrium in a reinsurance market in the early 1960s. Decentralized risk-sharing refers to risk-sharing mechanisms under which the participants in a pool decide to share their risks among each other in such a way that the sum all losses paid from the pool matches the sum of the contributions paid by the participants.  As mentioned above, investigating  how to determine &amp;lsquo;fair&amp;rsquo; contributions in a decentralized risk-sharing problem is an old research problem in the actuarial and risk-sharing literature. The recent interest in a sharing economy, collaborative consumption and decentralized finance, together with recent advances in technology have led to a renewed academic interest in decentralized risk-sharing mechanisms. Moreover, in practice, peer-to-peer (P2P) or collaborative insurance revives early forms of mutual insurance, where the contributions of the many are used to cover the misfortunes of the few, while keeping insurer’s experience in claim settlement and risk-bearing capital.&lt;/p&gt;
+&lt;p&gt;Taking into account these new practical and theoretical evolutions, we have decided to launch an academic forum for research on decentralized risk-sharing and its applications. FADeRiS-2023 is the first of (hopefully) a series of workshops, with the goal of bringing together researchers active in this field.&lt;/p&gt;
+&lt;p&gt;It is our pleasure and honor to dedicate this first FADeRiS workshop held at KU Leuven to prof. dr. Marc Goovaerts, one of the most brilliant actuarial researchers of his generation and a great mentor for many Belgian and Dutch actuaries.&lt;/p&gt;
+&lt;p&gt;Jan, Mario, and Michel (the organizers)&lt;/p&gt;
+&lt;p&gt;More information: &lt;a href=&#34;https://sites.google.com/view/faderis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sites.google.com/view/faderis&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
